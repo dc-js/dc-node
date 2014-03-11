@@ -1,0 +1,31 @@
+{
+  "name": "dc-node",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "copyright": "2014",
+  "description": "Server side support for DC.js",
+  "keywords": [
+    "visualization",
+    "svg",
+    "animation",
+    "canvas",
+    "chart",
+    "dimensional",
+    "crossfilter",
+    "d3"
+  ],
+  "homepage": "http://dc-js.github.io/dc.js/",
+  "bugs": "https://github.com/dc-js/dc-node/issues",
+  "author": {
+    "name": "DC.js Team",
+    "url": "http://github.com/dc-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dc-js/dc-node.git"
+  },
+  "dependencies": {
+    "jsdom": "~0.10.2",
+    "dc": "https://github.com/dc-js/dc.js/tarball/master"
+  }
+}
